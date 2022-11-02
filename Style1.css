@@ -1,0 +1,30 @@
+
+
+    .head{
+        background-color: blueviolet;
+        text-align: center;
+        color: white;
+        text-shadow: 10px 10px 10px black;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        font-family: cursive;
+    }
+    
+    .container{
+        background-image: linear-gradient(aqua ,green,aqua,green)
+        
+    }
+    h2{
+        background-color: white;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        color: purple;
+        text-shadow: 2px 2px 8px black;
+    
+    }
+    pre{
+        font-size: larger;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        
+    }
+    
